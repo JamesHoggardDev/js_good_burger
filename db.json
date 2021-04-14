@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -65,6 +65,18 @@
       "name": "Cow-abunga",
       "description": "Mooooo",
       "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+    },
+    {
+      "name": "The Luthor",
+      "description": "instant DM2",
+      "image": "https://stonedcitizen.com/wp-content/uploads/2020/08/double_doughnut_burger.jpg",
+      "id": 12
+    },
+    {
+      "name": "The Luthor",
+      "description": "instant DM2",
+      "image": "https://stonedcitizen.com/wp-content/uploads/2020/08/double_doughnut_burger.jpg",
+      "id": 13
     }
   ]
 }
